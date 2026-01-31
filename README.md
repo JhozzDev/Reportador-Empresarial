@@ -13,16 +13,6 @@ Requisitos
 -Python.
 -Pip.
 
-Instalación
-
--git clone https://github.com/tu-usuario/reportador-empresarial.git
-
--cd reportador-empresarial
-
--pip install -r requirements.txt
-
--python main.py
-
 Uso
 
 Selecciona la carpeta que contiene los reportes Excel.
