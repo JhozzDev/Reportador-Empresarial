@@ -53,5 +53,3 @@ Automatizacion de reportes empresariales.
 Reduccion de errores humanos.
 Uso interno en  departamentos administrativos.
 
-Autor: 
-Jhossander Hiciano
