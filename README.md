@@ -1,25 +1,25 @@
 # Reportador Empresarial.
 
-Reporte empresarial automatizado que simplifica y elimina errores humanos en procesos de generacion de archivos en excel.
+Reporte empresarial automatizado que simplifica y elimina errores humanos en procesos de generacion de archivos en excel (tarea aislada).
 
-# Tecnologías
+## Tecnologías
 
--Openpyxl (Lectura y escritura de archivos excel).
--Pandas (Procesamiento de datos).
--Tkinter (Interfaz grafica para seleccion de archivos).
+-Openpyxl: Lectura y escritura de archivos excel.
+-Pandas: Procesamiento de datos.
+-Tkinter: Interfaz grafica para seleccion de archivos.
 
-# Requisitos
+## Requisitos
 
 -Python.
 -Pip.
 
-# Uso
+## Uso
 
 Selecciona la carpeta que contiene los reportes Excel.
 El sistema procesará los archivos automáticamente.
 Se generará un archivo Excel con el reporte consolidado.
 
-# Funcionamiento
+## Funcionamiento
 
 El usuario selecciona una carpeta con reportes excel.
 El programa:
@@ -30,16 +30,16 @@ El programa:
 
 Todo el proceso se realiza sin intervencion manual sobre los archivos.
 
-# Limitaciones
+## Limitaciones
 
 El programa fue creado para una plantilla especifica.
 los archivos deben mantener: 
 -Misma estructura.
 -Mismas filas y columnas esperadas.
 
-# Casos de uso
+## Casos de uso
 
 Automatizacion de reportes empresariales.
 Reduccion de errores humanos.
-Uso interno en  departamentos administrativos.
+Uso interno en departamentos administrativos.
 
